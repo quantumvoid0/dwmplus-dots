@@ -6,3 +6,4 @@ This setup builds on the original DWM, adding:
 - Blur & shadows via Picom
 - Polybar instead of the default DWM bar
 
+If u have any troubles with anything let me know 
